@@ -16,7 +16,7 @@ Welcome to my repository,<br>
 - 🌱 I’m currently learning Java for Software Development and enhancing my skills on Front-end Web Dev.<br>
 - 🎮 Other things I like: <b>Playing Online Games, Sleeping, Music, & Digital Art</b><br>
 - 📬 Send me an email:   <a href="">nathanielkatesimon@gmail.com</a><br>
-- ✊ I am very passionate in everything I do. When I'm interested on a particular thing or subject, I give my all-out attention and effort on it.
+- ✊ I am very passionate in everything I do. <br>When I'm interested on a particular thing or subject, I give my all-out attention and effort on it.
    
                                                     "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
  
