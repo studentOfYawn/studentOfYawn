@@ -12,13 +12,14 @@
 A 1st year college student who aspire to become a Software Developer ✨<br>
 Welcome to my repository,<br>
 
+
 <h2>About Me 🚀</h2>
 - 🚀 I'm so interested on both Technology and Design particularly on: <b>Graphic Design, Web Dev, & Front-end Dev</b><br>
 - 🌱 I’m currently learning Java for Software Development and enhancing my skills on Front-end Web Dev.<br>
 - 🎮 Other things I like: <b>Playing Online Games, Sleeping, Music, & Digital Art</b><br>
 - ✊ I am very passionate in everything I do. When I'm interested on a particular thing or subject, I give my all-out attention and effort on it.
    
-                                                  "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
+                                    "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
  
 <h2>Tech Stack:</h2>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
@@ -33,4 +34,4 @@ Welcome to my repository,<br>
 <img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;">
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67"><img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" data-canonical-src="https://imgur.com/rilHVxA.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Asmit2952/Asmit2952/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
