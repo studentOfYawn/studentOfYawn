@@ -6,9 +6,7 @@
 <a href="https://www.facebook.com/tantan.simon.1" rel="nofollow">
   <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/facebook.svg" style="max-width: 100%;">
 </a>
-<a href="nathanielkatesimon@gmail.com">
-  <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" style="max-width: 100%;">
-</a><br>
+
 A 1st year college student who aspire to become a Software Developer ✨<br>
 Welcome to my repository,<br>
 
@@ -17,11 +15,13 @@ Welcome to my repository,<br>
 - 🚀 I'm so interested on both Technology and Design particularly on: <b>Graphic Design, Web Dev, & Front-end Dev</b><br>
 - 🌱 I’m currently learning Java for Software Development and enhancing my skills on Front-end Web Dev.<br>
 - 🎮 Other things I like: <b>Playing Online Games, Sleeping, Music, & Digital Art</b><br>
+- 📬 Send me an email:   <a href="">nathanielkatesimon@gmail.com</a><br>
 - ✊ I am very passionate in everything I do. When I'm interested on a particular thing or subject, I give my all-out attention and effort on it.
    
                                                     "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
  
 <h2>Tech Stack:</h2>
+
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a>
