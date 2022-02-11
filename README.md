@@ -21,7 +21,7 @@ Welcome to my repository,<br>
 - ✊ I am very passionate in everything I do. <br>
 - 🙌 When I'm interested on a particular thing or subject, I give my all-out attention and effort on it.
    
-                              "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
+                                            "𝐄𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐡𝐨𝐫"
  
 <h2>Tech Stack:</h2>
 
