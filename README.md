@@ -51,7 +51,7 @@ Welcome to my repository,<br>
 <h2>📈 Statistics:</h2>
 <p dir="auto">
   <div align="center" dir="auto">
-  <a target="https://github.com/UrLostBoy" rel="noopener noreferrer">
+  <a target="https://github.com/studentOfYawn" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studentOfYawn&amp;show_icons=true&amp;locale=en&amp;theme=merko&amp;layout=compact" style="max-width: 100%;">
   </a>
 </p>
