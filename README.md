@@ -7,7 +7,7 @@
   <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/facebook.svg" style="max-width: 100%;">
 </a>
 
-A 1st year college student who aspire to become a Software Developer ✨<br>
+A 1st year college student who aspire to become a member of the Justice League ✨<br>
 Welcome to my repository,<br>
 
 
