@@ -42,3 +42,5 @@ Welcome to my repository,<br>
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/raw/master/marquee.svg" style="max-width: 100%;"></a>
