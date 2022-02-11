@@ -13,7 +13,7 @@ Welcome to my repository,<br>
 
 <h2>About Me 🚀</h2>
 - 🚀 I'm so interested on both Technology and Design particularly on: <b>Graphic Design, Web Dev, & Front-end Dev</b><br>
-- 🌱 I’m currently learning Java for Software Development and enhancing my skills on Front-end Web Dev.<br>
+- 🌱 I’m currently learning Web Development.<br>
 - 🎮 Other things I like: <b>Playing Online Games, Sleeping, Music, & Digital Art</b><br>
 - 📬 Send me an email:   <a href="">nathanielkatesimon@gmail.com</a><br>
 - ✊ I am very passionate in everything I do. <br>
