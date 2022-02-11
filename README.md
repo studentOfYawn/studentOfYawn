@@ -10,7 +10,7 @@
 A 1st year college student who aspire to become a member of the Justice League ✨<br>
 Welcome to my repository,<br>
 
-<img alt="Night Coding" align="right" width="250px" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img alt="Night Coding" align="right" width="250px" src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47kpffcojzef25b3ox6v4962ekdi8xcn0mwvsjhm3l&rid=giphy.gif&ct=g">
 
 <h2>About Me 🚀</h2>
 - 🚀 I'm so interested on both Technology and Design particularly on: <b>Graphic Design, Web Dev, & Front-end Dev</b><br>
