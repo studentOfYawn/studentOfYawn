@@ -43,25 +43,10 @@ Welcome to my repository,<br>
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
 
+<br />
+<br />
 
-<h2>📈 Statistics:</h2>
-<p dir="auto">
-  <div align="center" dir="auto">
-  <a target="https://github.com/UrLostBoy" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UrLostBoy&amp;show_icons=true&amp;locale=en&amp;theme=merko&amp;layout=compact" style="max-width: 100%;">
-  </a>
-</p>
-<p align="left" dir="auto">
-  <a href="https://github.com/UrLostBoy" rel="nofollow">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UrLostBoy&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=UrLostBoy&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
-  </a>
-</p>
-<p dir="auto">
-  <a href="https://github.com/UrLostBoy" rel="nofollow">
-    <img src="https://activity-graph.herokuapp.com/graph?username=UrLostBoy&amp;custom_title=UrLostBoy's%20Contribution%20Graph&amp;show_icons=true&amp;theme=react-dark&amp;hide_border=true&amp" style="max-width: 100%;">
-  </a>
-</p>
+
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/raw/master/marquee.svg" style="max-width: 100%;"></a>
