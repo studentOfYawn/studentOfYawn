@@ -48,6 +48,19 @@ Welcome to my repository,<br>
 <br />
 <br />
 
+<h2>📈 Statistics:</h2>
+<p dir="auto">
+  <div align="center" dir="auto">
+  <a target="https://github.com/UrLostBoy" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studentOfYawn&amp;show_icons=true&amp;locale=en&amp;theme=merko&amp;layout=compact" style="max-width: 100%;">
+  </a>
+</p>
+<p align="left" dir="auto">
+  <a href="https://github.com/UrLostBoy" rel="nofollow">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=studentOfYawn&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=studentOfYawn&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
+  </a>
+</p>
 
 
 
